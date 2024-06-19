@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://taliaxiney.github.io/sitemap
+Sitemap: https://taliaxiney.github.io/app/sitemap
+Sitemap: https://taliaxiney.github.io/assets/sitemap
+Sitemap: https://taliaxiney.github.io/css/sitemap
+Sitemap: https://taliaxiney.github.io/includes/sitemap
+Sitemap: https://taliaxiney.github.io/item/sitemap
+Sitemap: https://taliaxiney.github.io/src/sitemap
